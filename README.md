@@ -101,16 +101,68 @@ Observability
 
 Backend / Architecture
 
-* apigrove￼
-* product-apim￼
-* spring-cloud-event-sourcing-example￼
-* microservices-breaking-up-a-monolith￼
+🔹 apigrove
+
+API platform engineering and gateway ecosystem.
+
+Repository:
+https://github.com/bud127/apigrove
+
+⸻
+
+🔹 product-apim
+
+Enterprise API management platform and architecture.
+
+Repository:
+https://github.com/bud127/product-apim
+
+⸻
+
+🔹 spring-cloud-event-sourcing-example
+
+Event sourcing and distributed systems implementation using Spring Cloud.
+
+Repository:
+https://github.com/bud127/spring-cloud-event-sourcing-example
+
+⸻
+
+🔹 microservices-breaking-up-a-monolith
+
+Microservices decomposition and system design exploration.
+
+Repository:
+https://github.com/bud127/microservices-breaking-up-a-monolith
+
+⸻
 
 Platform Engineering / DevOps
 
-* docker-ci-tool-stack￼
-* sonar-gate-breaker￼
-* spring-cloud-pipelines￼
+🔹 docker-ci-tool-stack
+
+Docker-based CI/CD engineering stack.
+
+Repository:
+https://github.com/bud127/docker-ci-tool-stack
+
+⸻
+
+🔹 sonar-gate-breaker
+
+Quality gate automation for CI/CD pipelines.
+
+Repository:
+https://github.com/bud127/sonar-gate-breaker
+
+⸻
+
+🔹 spring-cloud-pipelines
+
+CI/CD pipeline automation for microservices.
+
+Repository:
+https://github.com/bud127/spring-cloud-pipelines
 
 ⸻
 
